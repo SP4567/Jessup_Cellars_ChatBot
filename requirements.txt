@@ -1,0 +1,7 @@
+numpy
+flask
+transformers
+sentence_transformers
+sklearn
+
+
