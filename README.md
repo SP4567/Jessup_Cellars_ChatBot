@@ -40,3 +40,14 @@
 
   # Web Application: https://jessupcellarbot.netlify.app/
   note: Web Application might not work hence directly can be run on the system and can be tested.
+
+  # Tech Stack
+  1. Python
+  2. Data Science
+  3. Machine Learning
+  4. Deep Learning
+  5. Flask
+  6. HTML
+  7. CSS
+  8. JAVASCRIPT
+  9. Netlify
