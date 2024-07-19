@@ -1,0 +1,7 @@
+Flask
+transformers
+tensorflow
+plotly
+dash
+shap
+scikit-learn
