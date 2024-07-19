@@ -39,7 +39,7 @@
   <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
   # Web Application: https://jessupcellarsquerybot.netlify.app
-  note: Web Application might not work hence directly can be run on the system and can be tested.
+  note: Web Application might not work hence directly can be run on the system and can be tested through the code provided.
 
   # Tech Stack
   1. Python
