@@ -13,7 +13,7 @@ def home():
     return render_template('index2.html')
 
 # Load the corpus
-with open('Corpus.txt', 'r', encoding='utf-8') as f:
+with open('C:\\Users\\Suyash Pandey\\PycharmProjects\\Q&A ChatBot\\Corpus.txt', 'r', encoding='utf-8') as f:
     corpus = f.read().split('\n\n')  # Assuming paragraphs are separated by blank lines
 
 print("Corpus loaded. Number of paragraphs:", len(corpus))
